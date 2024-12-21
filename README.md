@@ -106,7 +106,7 @@ Here is an overview of the main functions provided by LiteRAMFS:
 Here’s a simple example of using LiteRAMFS:
 
 ```cpp
-#include "LiteRAMFS.hpp"
+#include "literamfs.hpp"
 #include <iostream>
 
 int main() {
