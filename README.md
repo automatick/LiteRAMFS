@@ -24,7 +24,7 @@ cd LiteRAMFS
 
 Include the header files in your project:
 ```cpp
-#include "LiteRAMFS.hpp"
+#include "literamfs.hpp"
 ```
 
 ---
