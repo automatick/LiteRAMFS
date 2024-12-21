@@ -18,7 +18,7 @@ LiteRAMFS is a lightweight in-memory file system designed for managing files and
 
 Clone the repository and include the `LiteRAMFS` files in your project:
 ```bash
-git clone https://github.com/your-username/LiteRAMFS.git
+git clone https://github.com/automatick/LiteRAMFS.git
 cd LiteRAMFS
 ```
 
